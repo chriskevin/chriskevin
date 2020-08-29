@@ -1,11 +1,11 @@
 ### Hi, I'm Chris 👋👨‍💻
 
-I am a software engineer currently working at Minna Technologies. My belief is that software is one of many tools that can empower people to solve almost any problem.
-However we are in the middle of a time with a lot of uncertainity. Absurd fragmentation of programming languages and ecosystem tools, a huge lack of mathematic and scientific formal principles and ignorance of program correctness. I know we can do better and when we finally do, it is going to be awesome! 🌈
+I am a software engineer currently working at Minna Technologies. My belief is that software is one of many tools that can empower 💪 people 🧑🏿‍🤝‍🧑🏻 to solve almost any problem.
+However we are in the middle of a time with a lot of uncertainity. Absurd fragmentation of programming languages and ecosystem tools, a huge lack of mathematic and scientific formal principles and ignorance of program correctness. I know we can do better (✂️💩) and when we finally do, it is going to be awesome! 🌈
 
 #### So what do I suggest that we should focus more on?
 - Category Theory
-- Functional Programming
+- Functional Programming λ🦄
 - Formal Verification
 - Pure functional languages: Haskell, Elm, PureScript, Idris, Unison
 - Dependent Types

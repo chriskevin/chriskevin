@@ -25,6 +25,8 @@ However we are in the middle of a time with a lot of uncertainity. Absurd fragme
 
 ― Alan J. Perlis
 
+<p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/elm/elm-original.svg" alt="elm" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/></p>
+
 <p align="center">If you feel intrigued or just want to throw ⚡ or 💩 at me, then look no further</p>
 <p align="center">
   <a href="https://codepen.io/chriskevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="chriskevin" height="30" width="30" /></a>

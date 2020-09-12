@@ -1,6 +1,7 @@
-### Hi, I'm Chris 👋👨‍💻
+<h1 align="center">Hi 👋, I'm Chris Sundberg 👨‍💻</h1>
+<h3 align="center">Software Engineer @ Minna Technologies</h3>
 
-I am a software engineer currently working at Minna Technologies. My belief is that software is one of many tools that can empower 💪 people 🧑🏿‍🤝‍🧑🏻 to solve almost any problem.
+My belief is that software is one of many tools that can empower 💪 people 🧑🏿‍🤝‍🧑🏻 to solve almost any problem.
 However we are in the middle of a time with a lot of uncertainity. Absurd fragmentation of programming languages and ecosystem tools, a huge lack of mathematic and scientific formal principles and ignorance of program correctness. I know we can do better (✂️💩) and when we finally do, it is going to be awesome! 🌈
 
 #### So what do I suggest that we should focus more on?
@@ -24,7 +25,7 @@ However we are in the middle of a time with a lot of uncertainity. Absurd fragme
 
 ― Alan J. Perlis
 
-If you feel intrigued or just want to throw ⚡ or 💩 at me, then look no further:
+<p align="center">If you feel intrigued or just want to throw ⚡ or 💩 at me, then look no further</p>
 <p align="center">
   <a href="https://codepen.io/chriskevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="chriskevin" height="30" width="30" /></a>
   <a href="https://dev.to/chriskevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chriskevin" height="30" width="30" /></a>

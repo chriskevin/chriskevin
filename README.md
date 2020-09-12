@@ -31,10 +31,19 @@ However we are in the middle of a time with a lot of uncertainity. Absurd fragme
 <p align="center">
   <a href="https://codepen.io/chriskevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="chriskevin" height="30" width="30" /></a>
   <a href="https://dev.to/chriskevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chriskevin" height="30" width="30" /></a>
+  <a href="https://stackshare.io/chriskevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackshare.svg" alt="chriskevin" height="30" width="30" /></a>
   <a href="https://twitter.com/chrisxkevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chrisxkevin" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/chris-sundberg-7b716744/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Chris Sundberg" height="30" width="30" /></a>
+  <a href="https://keybase.io/chriskevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="chriskevin" height="30" width="30" /></a>
   <a href="https://www.facebook.com/csundberg1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Chris Sundberg" height="30" width="30" /></a>
   <a href="https://www.instagram.com/chrisxkevin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chrisxkevin" height="30" width="30" /></a>
+</p>
+
+<p align="center">
+  <a href="https://my.playstation.com/profile/Chris-Kevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/playstation.svg" alt="Chris-Kevin" height="30" width="30" /></a>
+  <a href="https://account.xbox.com/en-us/profile?gamertag=chrisXkevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xbox.svg" alt="chriskevin" height="30" width="30" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198112333556/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="ChrisKevin" height="30" width="30" /></a>
+  <a href="https://trakt.tv/users/chriskevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/trakt.svg" alt="chriskevin" height="30" width="30" /></a>
 </p>
 
 <!--

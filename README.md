@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Sundberg 👨‍💻</h1>
-<h3 align="center">Software Engineer @ Minna Technologies</h3>
+<h3 align="center">Technology Leader &amp; Software Engineer @ Minna Technologies</h3>
 
 My belief is that software is one of many tools that can empower 💪 people 🧑🏿‍🤝‍🧑🏻 to solve almost any problem.
 However we are in the middle of a time with a lot of uncertainity. Absurd fragmentation of programming languages and ecosystem tools, a huge lack of mathematic and scientific formal principles and ignorance of program correctness. I know we can do better (✂️💩) and when we finally do, it is going to be awesome! 🌈
